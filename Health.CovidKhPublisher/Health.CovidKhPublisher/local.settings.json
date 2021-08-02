@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "AppSettings:TelegramBotAccessToken": "<access_token>",
+    "AppSettings:TelegramPublishChannel": "<@telegram_channel>"
+  }
+}
